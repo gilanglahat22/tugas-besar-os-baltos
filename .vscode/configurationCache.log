@@ -1,0 +1,1 @@
+{"buildTargets":["all","bootloader","build-run","build-test","cat","cd","cp","diskimage","kernel","ls","mkdir","mv","program_tes","run","shell","stdlib","test","test-shell"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
